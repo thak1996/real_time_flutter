@@ -1,0 +1,34 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "real-time-flutter-2832f",
+          "appId": "1:487657765889:android:34a3e7136632f83bec9400",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "real-time-flutter-2832f",
+          "configurations": {
+            "android": "1:487657765889:android:34a3e7136632f83bec9400",
+            "ios": "1:487657765889:ios:0d1dc29b52507fdcec9400",
+            "macos": "1:487657765889:ios:0d1dc29b52507fdcec9400",
+            "web": "1:487657765889:web:7c21cc4f17615fa9ec9400",
+            "windows": "1:487657765889:web:15c3f442da743730ec9400"
+          }
+        }
+      }
+    }
+  },
+  "emulators": {
+    "singleProjectMode": true,
+    "auth": {
+      "port": 9099
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}

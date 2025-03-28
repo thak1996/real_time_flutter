@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:template_bloc/app/themes/app.theme.dart';
 import 'app.route.dart';
 
 class MyApp extends StatelessWidget {

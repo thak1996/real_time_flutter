@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487657765889",
+    "project_id": "real-time-flutter-2832f",
+    "storage_bucket": "real-time-flutter-2832f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487657765889:android:34a3e7136632f83bec9400",
+        "android_client_info": {
+          "package_name": "com.example.template_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzS9ynK9UhEma6QaX0obvZotauj93oBSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
